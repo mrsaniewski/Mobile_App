@@ -1,0 +1,154 @@
+{
+  "teams": [
+    {
+      "team": "Jagiellonia",
+      "id":1,
+      "town": "Bialystok",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2021_2022/clubs/05_Jagiellonia_Bialystok.png",
+      "colors": "yellow-red",
+      "description": {
+        "since":"1920",
+        "trophies":"99xChampions"
+      },
+      "kitscolor": {
+        "first":"yellow-red",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Lech",
+      "id":2,
+      "town": "Poznan",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2022_23/clubs/05_Lech_Pozna%C5%84.png",
+      "colors": "white-blue",
+      "description": {
+        "since":"1922",
+        "trophies":"14xChampions"
+      },
+      "kitscolor": {
+        "first":"white-blue",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Widzew",
+      "id":3,
+      "town": "Lodz",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2022_23/clubs/Widzew-Lodz-herb.png",
+      "colors": "red",
+      "description": {
+        "since":"1910",
+        "trophies":"25xChampions"
+      },
+      "kitscolor": {
+        "first":"red",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Legia",
+      "id":4,
+      "town": "Warszawa",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2021_2022/clubs/Herb_Legia_Warszawa_2.png",
+      "colors": "white",
+      "description": {
+        "since":"1916",
+        "trophies":"0xChampions"
+      },
+      "kitscolor": {
+        "first":"white",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Lechia",
+      "id":5,
+      "town": "Gdansk",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2021_2022/clubs/07_Lechia_Gdansk.png",
+      "colors": "white-green",
+      "description": {
+        "since":"1922",
+        "trophies":"5xChampions"
+      },
+      "kitscolor": {
+        "first":"white-green",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Arka",
+      "id":6,
+      "town": "Gdynia",
+      "logo":"https://www.arka.gdynia.pl/files/herb/arka_gdynia_mzks_kolor.png",
+      "colors": "yellow-blue",
+      "description": {
+        "since":"1926",
+        "trophies":"1xChampions"
+      },
+      "kitscolor": {
+        "first":"yellow-blue",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Wisla",
+      "id":7,
+      "town": "Krakow",
+      "logo":"https://www.wisla.krakow.pl/uploads/page-assets/bfd024d05f9b6e9b4f32291ab1ce583d.png",
+      "colors": "red",
+      "description": {
+        "since":"1906",
+        "trophies":"20xChampions"
+      },
+      "kitscolor": {
+        "first":"red",
+        "second":"white"
+      }
+    },
+    {
+      "team": "Cracovia",
+      "id":8,
+      "town": "Krakow",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2021_2022/clubs/02_Cracovia.png",
+      "colors": "white-red",
+      "description": {
+        "since":"1920",
+        "trophies":"0xChampions"
+      },
+      "kitscolor": {
+        "first":"white-red",
+        "second":"black"
+      }
+    },
+    {
+      "team": "Slask",
+      "id":9,
+      "town": "Wroclaw",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2021_2022/clubs/13_Slask_Wroclaw.png",
+      "colors": "green",
+      "description": {
+        "since":"1912",
+        "trophies":"2xChampions"
+      },
+      "kitscolor": {
+        "first":"green",
+        "second":"white"
+      }
+    },
+    {
+      "team": "Korona",
+      "id":10,
+      "town": "Kielce",
+      "logo":"https://d2vzq0pwftw3zc.cloudfront.net/fit-in/100x100/filters:quality(30)/1/2022_23/clubs/Korona-Kielce-herb.png",
+      "colors": "yellow-red",
+      "description": {
+        "since":"1930",
+        "trophies":"0xChampions"
+      },
+      "kitscolor": {
+        "first":"yellow-red",
+        "second":"black"
+      }
+    }
+  ]
+}
